@@ -1,16 +1,33 @@
-## Hi there 👋
+# Salut, moi c'est Mialisoa 
 
-<!--
-**Mialiso/Mialiso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Étudiante en 3ème année de B.U.T. Informatique à l'IUT de Blagnac. Passionnée par le développement d'applications interactives et web.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Compétences 
+
+* **Langages :**
+| Java | PHP | Python | C# | JavaScript | TypeScript |
+
+* **Frameworks & Outils :**
+| Symfony | Angular | Django | Unity | Git | Docker |
+
+
+---
+
+## Projets 
+
+### [Projet VR - IoT](https://github.com/AchrafAmeri/SAE-5-01-LocURa4IoT-2025-2026.git)
+Application immersive développée sous Unity pour l'IRIT utilisant le protocole MQTT.
+**Tech Stack:** [Unity, C#, MQTT]
+
+### [Gestion de Scolarité](https://github.com/Mialiso/Gestion-de-scolarite-Symfony.git)
+Plateforme web complète avec gestion de base de données complexe et sécurité.
+**Tech Stack:** [Symfony, Twig, MySQL]
+
+---
+
+## Me contacter
+
+* 💼 [LinkedIn](https://www.linkedin.com/in/mialisoa/)
+* 📧 [Email](mailto:mialisoarazaf@gmailcom)
