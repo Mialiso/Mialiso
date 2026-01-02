@@ -7,7 +7,7 @@
 ##  Compétences 
 
 * **Langages :**
-| Java | PHP | Python | C# | JavaScript | TypeScript |
+| Java | PHP | Python | C# | TypeScript |
 
 * **Frameworks & Outils :**
 | Symfony | Angular | Django | Unity | Git | Docker |
